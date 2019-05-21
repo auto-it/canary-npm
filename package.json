@@ -1,0 +1,8 @@
+{
+  "name": "@auto-it/canary-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/auto-it/canary-npm",
+  "author": "Zephraph <zephraph@gmail.com>",
+  "license": "MIT"
+}
